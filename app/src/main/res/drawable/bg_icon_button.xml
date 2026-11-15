@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Self-contained circular icon-button background: no theme attribute
+     resolution, so inflation can never fail on OEM theme overlays. -->
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="#33FFFFFF">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="#00000000" />
+        </shape>
+    </item>
+</ripple>

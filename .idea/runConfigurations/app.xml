@@ -1,0 +1,62 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+    <module name="ZCode_Remote.app" />
+    <option name="ANDROID_RUN_CONFIGURATION_SUFFIX" value="app" />
+    <option name="DEPLOY" value="true" />
+    <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+    <option name="DEPLOY_AS_INSTANT" value="false" />
+    <option name="ARTIFACT_NAME" value="" />
+    <option name="PM_INSTALL_OPTIONS" value="" />
+    <option name="ALL_USERS" value="false" />
+    <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+    <option name="CLEAR_APP_STORAGE" value="false" />
+    <option name="ACTIVITY_CLASS" value="" />
+    <option name="SEARCH_ACTIVITY_IN_MODULE_LAUNCHER" value="true" />
+    <option name="CLEAR_LOGCAT" value="false" />
+    <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+    <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+    <option name="FORCE_STOP_RUNNING_APP" value="true" />
+    <option name="TARGET_HARDWARE_PROFILE" value="" />
+    <option name="HIDDEN_TARGET_HARDWARE_PROFILE" value="" />
+    <option name="targetSelectionMode" value="DEVICE_CHOOSER" />
+    <option name="selectedDebugger" value="-1" />
+    <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+    <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+    <option name="DEBUGGER_TYPE" value="Auto" />
+    <Auto>
+      <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+      <option name="SHOW_STATIC_VARS" value="true" />
+      <option name="WORKING_DIR" value="" />
+      <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+    </Auto>
+    <Hybrid>
+      <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+      <option name="SHOW_STATIC_VARS" value="true" />
+      <option name="WORKING_DIR" value="" />
+      <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+    </Hybrid>
+    <Java>
+      <option name="CREATE_DEFAULT_INPROCESS_JVM" value="true" />
+      <option name="SHOW_STATIC_VARS" value="true" />
+    </Java>
+    <Native>
+      <option name="WORKING_DIR" value="" />
+      <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+    </Native>
+    <Profilers>
+      <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+      <option name="STARTUP_PROFILING_OPTIONS" value="None" />
+      <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+      <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample Profiling" />
+      <option name="STARTUP_MEMORY_PROFILING_ENABLED" value="false" />
+      <option name="GPU_PROFILING_ENABLED" value="false" />
+      <option name="IMPORTED_CLOUD_PROFILING_CONFIG_NAME" value="Default" />
+    </Profilers>
+    <method v="2">
+      <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+    </method>
+  </configuration>
+</component>
